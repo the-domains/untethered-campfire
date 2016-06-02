@@ -1,0 +1,14 @@
+layout_spectrum: 0.038780041271820664
+typography_spectrum: 0.19693081197328866
+color:
+  brandStrength: 0.6573356024455279
+  lightness: 0.7749031744897366
+  saturation: 0.6701019124593586
+  rhythmicContrast: 0.9308754939120263
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: untethered campfire
