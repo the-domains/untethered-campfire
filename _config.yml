@@ -6,9 +6,9 @@ color:
   saturation: 0.6701019124593586
   rhythmicContrast: 0.9308754939120263
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: untethered campfire
